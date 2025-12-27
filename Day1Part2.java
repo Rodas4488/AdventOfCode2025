@@ -39,5 +39,6 @@ public class Day1Part2{
         }
 
         System.out.println(result);
+        sc.close();
     }
 }
